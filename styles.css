@@ -1,0 +1,46 @@
+h1{
+    color:red;
+}
+.fondo{
+    background: lightblue;
+}
+
+.boton input{
+    display: flexbox;
+    justify-content: space-around;
+    float:none;
+    background-color: #dcffcc;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+
+}
+
+.imagen{
+    background-image: url("img/aguascalientes.jpg"); 
+    background-size: cover;   
+}
+
+.imagen1{
+    background-image: url("img/ciudad.jpg"); 
+    background-size: cover;   
+}
+
+.imagen2{
+    background-image: url("img/puebla.jpg"); 
+    background-size: cover;   
+}
+.imagen3{
+    background-image: url("img/quijote.png"); 
+    background-size: cover;   
+}
+
+.letra1{
+    background: white;
+    color:black;
+    width: 60%;
+}
+
+.about-section.text-center{
+    padding-top: 5%;
+}
